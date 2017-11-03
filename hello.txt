@@ -1,0 +1,5 @@
+# Nhung-ghi-chep-linh-tinh
+- Đầu năm 2018
+- Củng cố lại các kiến thức cơ bản về Linux (hết năm 2017 đọc xong 2 cuốn tài liệu LPI1,2)
+- Tham gia khóa học LPI, thi chứng chỉ LPI (mục tiêu hết tháng 3/2018 lấy được chứng chỉ)
+- Không tham gia phỏng vấn vào công ty nhà nước,
